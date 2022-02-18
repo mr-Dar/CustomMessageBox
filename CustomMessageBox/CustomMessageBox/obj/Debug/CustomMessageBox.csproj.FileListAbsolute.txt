@@ -1,0 +1,16 @@
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe.config
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.exe
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\bin\Debug\CustomMessageBox.pdb
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\MainWindow.g.cs
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\MsgBox.g.cs
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\App.g.cs
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox_MarkupCompile.cache
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox_MarkupCompile.lref
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\MainWindow.baml
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\MsgBox.baml
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.g.resources
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.Properties.Resources.resources
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.GenerateResource.cache
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.csproj.CoreCompileInputs.cache
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.exe
+C:\Users\darko.milcic\source\repos\CustomMessageBox\CustomMessageBox\obj\Debug\CustomMessageBox.pdb
